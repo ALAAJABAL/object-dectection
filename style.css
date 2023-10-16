@@ -1,0 +1,25 @@
+body
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#h1
+{
+    font-size: 40px;
+    width: 100%;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#back
+{
+    float: left;
+}
+
+canvas
+{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(63, 59, 59);
+    margin-top: 50px;
+}
